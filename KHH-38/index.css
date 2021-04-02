@@ -1,13 +1,22 @@
 body {
     margin:0px;
+    
 }
 #header {
-    margin-left:25%;
+    margin-left:17%;
+    background-color: white;
 }
 #body {
 }
 #section {
-    margin-left:20%;
+    margin-left:15%;
     float:left;
-    width:60%;
+    width:70%;
+}
+.H {
+    width:32%;
+    float:left;
+    margin-right:10%;
+    color:black;
+    background-color:white;
 }
