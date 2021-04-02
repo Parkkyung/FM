@@ -1,0 +1,13 @@
+body {
+    margin:0px;
+}
+#header {
+    margin-left:25%;
+}
+#body {
+}
+#section {
+    margin-left:20%;
+    float:left;
+    width:60%;
+}
